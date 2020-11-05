@@ -1,4 +1,4 @@
-# DS_Python_Project-3_Medicines-Sales-Prediction
+# DS_Python_Medicines-Sales-Prediction
 Counterfeit medicines are fake medicines which are either contaminated or contain wrong or no active
 ingredient. They could have the right active ingredient but at the wrong dose. Counterfeit drugs are illegal and
 are harmful to health. 10% of the world's medicine is counterfeit and the problem is even worse in developing
